@@ -93,6 +93,7 @@ author:
   name             : "Dr Sophie Meakin"
   avatar           : "/assets/images/sophiemeakin_2019.jpg"
   bio              : "Research Fellow in real-time modelling of infectious disease outbreaks."
+  email            : "sophie.meakin@lshtm.ac.uk"
   links:
     - label: "sophie.meakin@lshtm.ac.uk"
       icon: "fas fa-fw fa-envelope-square"
