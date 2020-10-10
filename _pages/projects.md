@@ -1,12 +1,6 @@
 ---
-layout: splash
+title: "Research projects"
 permalink: /projects/
-hidden: true
-header:
-  overlay_color: "#5e616c"
-  overlay_image: /assets/images/mm-home-page-feature.jpg
-excerpt: >
-  Projects!
 ---
 
-{% include feature_row %}
+Projects that I'm working on.
