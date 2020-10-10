@@ -95,6 +95,9 @@ author:
   bio              : "Research Fellow in real-time modelling of infectious disease outbreaks."
   email            : "sophie.meakin@lshtm.ac.uk"
   links:
+    - label: "sophie.meakin@lshtm.ac.uk"
+      icon: "fas fa-fw fa-envelope-square"
+      # url: "mailto:your.name@email.com"
     - label: "@SophieMeakin"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/SophieMeakin"
