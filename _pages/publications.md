@@ -1,6 +1,6 @@
 ---
 permalink: /publications/
-title: "Publications"
+title: ""
 excerpt: "Publications and pre-prints."
 toc: false
 ---

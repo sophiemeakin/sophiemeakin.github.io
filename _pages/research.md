@@ -1,6 +1,6 @@
 ---
 permalink: /research/
-title: "Research"
+title: ""
 excerpt: "Past and present research interests."
 toc: false
 ---
