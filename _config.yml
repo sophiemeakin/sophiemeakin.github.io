@@ -26,7 +26,7 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : " "
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -93,11 +93,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sophie Meakin"
+  name             : "Dr Sophie Meakin"
   avatar           : "/assets/images/sophiemeakin_2019.jpg"
   bio              : "Research Fellow in real-time modelling of infectious disease outbreaks."
   location         : "London, United Kingdom"
-  email            :
+  email            : "sophie.meakin@lshtm.ac.uk"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -275,7 +275,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: # true
       share: true
-      related: true
+      related: false
