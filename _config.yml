@@ -78,7 +78,7 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links:
-   - "https://twitter.com/SophieMeakin"
+    - "https://twitter.com/SophieMeakin"
 
 # Analytics
 analytics:
@@ -90,10 +90,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr Sophie Meakin"
+  name             : "Sophie Meakin"
   avatar           : "/assets/images/sophiemeakin_2019.jpg"
   bio              : "Research Fellow in real-time modelling of infectious disease outbreaks."
-  location         : "London, United Kingdom"
+  location         : "London, United Kingdom."
   email            : "sophie.meakin@lshtm.ac.uk"
   links:
     - label: "Email"
@@ -112,20 +112,8 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
       # url:
 
 
