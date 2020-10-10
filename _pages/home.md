@@ -5,7 +5,7 @@ hidden: true
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/mm-home-page-feature.jpg
-excerpt: "mathematical epidemiology | outbreak response"
+excerpt: mathematical epidemiology · outbreak response
 feature_row1:
   - image_path: /assets/images/sophiemeakin_2019.jpg
     alt: "Picture of Sophie Meakin."
