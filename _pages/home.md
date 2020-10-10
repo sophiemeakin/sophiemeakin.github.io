@@ -8,10 +8,9 @@ header:
 excerpt: "Research Fellow in real-time modelling of infectious disease outbreaks."
 feature_row1:
   - image_path: /assets/images/sophiemeakin_19.jpg
-    alt: "placeholder image 2"
+    alt: "Picture of Sophie Meakin."
     title: " "
     excerpt: 'I am currently a Research Fellow at the London School of Hygiene & Tropical Medicine.'
-    url: "#test-link"
 ---
 
-{% include feature_row id="feature_row" type="left" %}
+{% include feature_row id="feature_row1" type="left" %}
